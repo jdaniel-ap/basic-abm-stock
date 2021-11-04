@@ -1,0 +1,31 @@
+.alert {
+  opacity: 0;
+  font-size: 20px;
+  padding: 30px;
+  border-radius: 10px;
+  cursor: pointer;
+  opacity: 1;
+  transition: 0.3s;
+  width: 0;
+  height: 0;
+}
+
+.error,
+.success {
+  position: absolute;
+  background-color: #facfcf;
+  color: #fc2c2c;
+  opacity: 1;
+  width: 250px;
+  height: 40px;
+  text-align: center;
+
+  &:hover {
+    filter: brightness(0.8);
+  }
+}
+
+.success {
+  background-color: #84f7ac;
+  color: #167c46;
+}

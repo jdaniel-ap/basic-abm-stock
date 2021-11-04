@@ -1,0 +1,27 @@
+button {
+  padding: 5px 10px;
+  border: transparent 1px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: white;
+  font-weight: 800;
+
+  &:hover {
+    filter: brightness(0.9);
+  }
+}
+
+.delete {
+  background-color: #ff3838;
+}
+
+.select {
+  background-color: #7158e2;
+  color: white;
+}
+
+.add-btn {
+  font-size: 18px;
+  padding: 15px;
+  margin: auto;
+}
