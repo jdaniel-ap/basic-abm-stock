@@ -1,5 +1,23 @@
 # Teste tecnico LexartLabs
 
+## Views
+
+#### With registered items
+![image](https://user-images.githubusercontent.com/74429277/140399121-566a9520-f087-4083-b020-fe4c5b0f5b95.png)
+
+#### Without registered items
+![image](https://user-images.githubusercontent.com/74429277/140399220-5ad300a7-cde5-4755-b81e-dbfcdbbac2ac.png)
+
+#### Without connection or caducated endpoint
+![image](https://user-images.githubusercontent.com/74429277/140399821-7e052567-04d6-4dae-b2f8-b90a55d55bb5.png)
+
+#### Add item
+![image](https://user-images.githubusercontent.com/74429277/140399673-6bf7e920-832a-460b-9b8c-3c5575df6e5b.png)
+
+#### Edit item
+![image](https://user-images.githubusercontent.com/74429277/140399730-990d52ed-bf73-43a4-8269-61eecdd4efec.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
